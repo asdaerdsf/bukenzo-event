@@ -137,6 +137,12 @@ background-image: url("./brand-logo.jpeg");
   text-transform: uppercase;
 }
 
+.section-subtitle {
+font-family: "Playfair Display", serif;
+  font-size: 10px;
+  text-transform: uppercase;
+}
+
 .section-line {
   flex: 1;
   height: 1px;
