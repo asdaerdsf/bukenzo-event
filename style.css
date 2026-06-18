@@ -143,6 +143,12 @@ background-image: url("./brand-logo.jpeg");
   background: linear-gradient(to right, var(--gold), transparent);
 }
 
+.section-subtitle {
+font-family: "Playfair Display", serif;
+  font-size: 10px;
+  text-transform: uppercase;
+}
+
 /* SCHEDULE */
 .schedule-grid {
   display: grid;
